@@ -11,5 +11,11 @@ This contains a CSV file with 1552 unlabelled samples. The model is required to 
 The python notebook generates a CSV file with predictions on the unlabelled dataset and stores it in your working directory.
 
 ```
-The model is required to perform inference on this dataset and accurately classify each sample as either 'spam' or 'not-spam'.
+├── Results
+│   ├── results_task1.csv
+├── Training and Test Data
+│   └── spam_detection_training_data.csv
+│   └── spam_detection_test_data.csv
+├── Spam_Detection_Task1.ipynb
+└── README.md
 ```
