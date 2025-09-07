@@ -1,6 +1,10 @@
 # Spam-Detection - Natural Language Processing Project
 This project implements a binary text classification system to distinguish between spam and legitimate messages, addressing real-world challenges in automated email and message filtering.
 
+
+<img width="648" height="300" alt="image" src="https://github.com/user-attachments/assets/794c7982-c462-48b0-a868-61a0bfe6b05e" />
+
+
 ## Training Data
 This contains a CSV file with 3619 labeled samples, of which 1068 are classified as 'spam' and 2551 as 'not-spam'. This dataset size is sufficient to train a machine learning model capable of learning the distinguishing features between legitimate and spam messages.
 
