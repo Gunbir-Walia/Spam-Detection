@@ -27,8 +27,14 @@ The python notebook generates a CSV file with predictions on the unlabelled data
 ### Procedure 
 * Comprehensive text preprocessing including lowercasing, removal of punctuation/special characters, tokenisation, stopword removal, and stemming to normalise and clean the dataset.
 * Engineered TF-IDF vectorisation with both unigrams and bigrams, capped at the top 5,000 most frequent terms to balance contextual richness with computational efficiency.
+<img width="760" height="434" alt="image" src="https://github.com/user-attachments/assets/556e9267-6cfa-4752-b7f4-1a31c811601c" />
 * Trained and evaluated Multinomial Naïve Bayes and Logistic Regression classifiers, analysing trade-offs between speed, interpretability, and predictive performance.
 
 ### Accuracy
 Achieved 96% accuracy with Naïve Bayes and 98% accuracy with Logistic Regression on the validation set, with the latter demonstrating superior precision, recall, and F1-scores.
+
+<img width="525" height="247" alt="image" src="https://github.com/user-attachments/assets/84d24622-bf6b-4f1a-8f62-1832d26102e1" />
+
+<img width="533" height="255" alt="image" src="https://github.com/user-attachments/assets/89a2d78d-9d04-414e-b2eb-8156d7dff2d7" />
+
 
