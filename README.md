@@ -19,3 +19,12 @@ The python notebook generates a CSV file with predictions on the unlabelled data
 ├── Spam_Detection_Task1.ipynb
 └── README.md
 ```
+
+### Procedure 
+* Comprehensive text preprocessing including lowercasing, removal of punctuation/special characters, tokenisation, stopword removal, and stemming to normalise and clean the dataset.
+* Engineered TF-IDF vectorisation with both unigrams and bigrams, capped at the top 5,000 most frequent terms to balance contextual richness with computational efficiency.
+* Trained and evaluated Multinomial Naïve Bayes and Logistic Regression classifiers, analysing trade-offs between speed, interpretability, and predictive performance.
+
+### Accuracy
+Achieved 96% accuracy with Naïve Bayes and 98% accuracy with Logistic Regression on the validation set, with the latter demonstrating superior precision, recall, and F1-scores.
+
