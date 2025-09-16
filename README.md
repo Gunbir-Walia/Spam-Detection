@@ -39,12 +39,14 @@ Achieved 96% accuracy with Naïve Bayes and 98% accuracy with Logistic Regressio
 
 <img width="683" height="547" alt="image" src="https://github.com/user-attachments/assets/f5bb6914-37c5-43ce-9840-8c842fa3ea50" />
 
+
 <img width="683" height="547" alt="image" src="https://github.com/user-attachments/assets/6ea735a6-2753-453c-926c-824394541c14" />
 
 
 ### Detailed Classification report
 
 <img width="521" height="169" alt="image" src="https://github.com/user-attachments/assets/3297db4a-b94b-4cf7-a335-0d5e86894f5d" />
+
 
 <img width="521" height="197" alt="image" src="https://github.com/user-attachments/assets/f8c1e122-ec79-4d24-9502-3bdd8775a5f1" />
 
