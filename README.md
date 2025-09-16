@@ -35,13 +35,6 @@ The python notebook generates a CSV file with predictions on the unlabelled data
 ### Accuracy
 Achieved 96% accuracy with Naïve Bayes and 98% accuracy with Logistic Regression on the validation set, with the latter demonstrating superior precision, recall, and F1-scores.
 
-	Precision	Recall	F1-score	Support
-Not Spam (0)	0.99	0.94	0.96	509
-Spam (1)	0.88	0.97	0.92	215
-				
-Accuracy			0.95	724
-Macro Avg	0.93	0.96	0.94	724
-Weighted Avg	0.95	0.95	0.95	724
 <img width="521" height="169" alt="image" src="https://github.com/user-attachments/assets/3297db4a-b94b-4cf7-a335-0d5e86894f5d" />
 
 
