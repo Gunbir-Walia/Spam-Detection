@@ -42,6 +42,7 @@ Spam (1)	0.88	0.97	0.92	215
 Accuracy			0.95	724
 Macro Avg	0.93	0.96	0.94	724
 Weighted Avg	0.95	0.95	0.95	724
-<img width="521" height="169" alt="image" src="https://github.com/user-attachments/assets/bbb642f5-4484-402c-a606-522d2b5eefb5" />
+<img width="521" height="169" alt="image" src="https://github.com/user-attachments/assets/3297db4a-b94b-4cf7-a335-0d5e86894f5d" />
+
 
 
